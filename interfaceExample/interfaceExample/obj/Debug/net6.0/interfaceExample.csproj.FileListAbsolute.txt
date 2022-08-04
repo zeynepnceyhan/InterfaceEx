@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\bin\Debug\net6.0\interfaceExample.exe
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\bin\Debug\net6.0\interfaceExample.deps.json
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\bin\Debug\net6.0\interfaceExample.runtimeconfig.json
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\bin\Debug\net6.0\interfaceExample.dll
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\bin\Debug\net6.0\interfaceExample.pdb
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\obj\Debug\net6.0\interfaceExample.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\obj\Debug\net6.0\interfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\obj\Debug\net6.0\interfaceExample.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\obj\Debug\net6.0\interfaceExample.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\obj\Debug\net6.0\interfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\obj\Debug\net6.0\interfaceExample.dll
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\obj\Debug\net6.0\refint\interfaceExample.dll
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\obj\Debug\net6.0\interfaceExample.pdb
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\obj\Debug\net6.0\interfaceExample.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\interfaceExample\interfaceExample\obj\Debug\net6.0\ref\interfaceExample.dll
